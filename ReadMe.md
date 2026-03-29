@@ -1,7 +1,7 @@
 BiLSTM
 BiLSTM_v1 -> BiLstm code to run on resnet101 csv file
 BiLSTM_v2 -> BiLstm code to run on vldsp csv file
-BiLSTM_v2 -> BiLstm code to run on combined csv file
+BiLSTM_v3 -> BiLstm code to run on combined csv file
 
 feature_extraction
 CNN_Features -> code file to extact resnet101 features
