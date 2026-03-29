@@ -11,7 +11,7 @@ BiLSTM_v3 -> BiLstm code to run on combined csv file
 FEATURE_EXTRACTION
 
 
-CNN_Features -> code file to extact resnet101 features
+CNN_Features -> code file to extract resnet101 features
 
 vldsp -> code file to extract VLDSP features
 
@@ -19,11 +19,11 @@ vldsp -> code file to extract VLDSP features
 FEATURES_CSV_FILES
 
 
-concatenated_file -> csv file of combination of resnet and vldsp features
+concatenated_file -> csv file of combination of resnet and vldsp features (too big to upload)
 
 Normalized_VLDSPFeatures2 -> csv file of normalised vldsp features 
 
-ResNet101_features_LSTM -> csv file of resnet101 features
+ResNet101_features_LSTM -> csv file of resnet101 features (too big to upload)
 
 VLDSPFeatures2 -> csv file of vldsp features
 
